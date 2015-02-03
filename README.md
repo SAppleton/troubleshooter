@@ -9,7 +9,7 @@ d) Verify which version of java you are using, what it the version of EAP etc et
 
 # 2 Taking a thread dump
 a) Build badApp from ???  
-b) Deploy this to EAP 6.3.0
+b) Deploy this to EAP 6.3.0  
 c) Follow 2 of https://access.redhat.com/solutions/18178  
 c) Analyse the thread dump using TDA and samuraiwhich thread what is stuck ?  
 
