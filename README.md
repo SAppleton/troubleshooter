@@ -19,7 +19,7 @@ b) Follow instructions in https://access.redhat.com/documentation/en-US/JBoss_En
 
 # 5 Garbage Collection logs
 a) Follow https://access.redhat.com/solutions/18656 to enable garbage collections logs  
-b) Analyse them using GarbageDOg https://access.redhat.com/labs/garbagedog/  
+b) Analyse them using GarbageDog https://access.redhat.com/labs/garbagedog/  
 
 # 6 Byteman
 a) Follow https://access.redhat.com/solutions/31283  
