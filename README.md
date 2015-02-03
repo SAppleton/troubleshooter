@@ -9,7 +9,7 @@ d) Verify which version of java you are using, what it the version of EAP etc et
 
 # 2 Taking a thread dump
 a) follow 2 of https://access.redhat.com/solutions/18178  
-b) analyses the thread dumo using TDA and samurai  
+b) analyse the thread dump using TDA and samurai  
 
 # 3 Byteman
 a) follow https://access.redhat.com/solutions/31283  
